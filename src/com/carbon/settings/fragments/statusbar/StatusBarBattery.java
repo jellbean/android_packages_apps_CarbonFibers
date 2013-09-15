@@ -1,5 +1,5 @@
 
-package com.carbon.settings.fragments;
+package com.carbon.settings.fragments.statusbar;
 
 import android.os.Bundle;
 import android.preference.CheckBoxPreference;

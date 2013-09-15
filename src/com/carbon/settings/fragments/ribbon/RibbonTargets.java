@@ -1,4 +1,4 @@
-package com.carbon.settings.fragments;
+package com.carbon.settings.fragments.ribbon;
 
 import android.app.Activity;
 import android.app.AlertDialog;

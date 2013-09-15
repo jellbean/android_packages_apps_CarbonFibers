@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.carbon.settings.fragments;
+package com.carbon.settings.fragments.navbar;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -67,7 +67,7 @@ import java.util.ArrayList;
 import static com.android.internal.util.carbon.AwesomeConstants.ASSIST_ICON_METADATA_NAME;
 import static com.android.internal.util.carbon.AwesomeConstants.AwesomeConstant;
 
-public class NavRingTargets extends SettingsPreferenceFragment implements
+public class NavigationRingTargets extends SettingsPreferenceFragment implements
         ShortcutPickerHelper.OnPickListener, GlowPadView.OnTriggerListener {
     private static final String TAG = "NavRing";
     private static final boolean DEBUG = false;

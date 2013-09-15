@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.carbon.settings.fragments;
+package com.carbon.settings.fragments.statusbar;
 
 import java.util.ArrayList;
 import java.util.Arrays;
